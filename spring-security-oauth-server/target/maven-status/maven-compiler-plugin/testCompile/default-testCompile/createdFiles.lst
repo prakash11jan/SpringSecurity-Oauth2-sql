@@ -1,0 +1,3 @@
+org\baeldung\test\AuthServerIntegrationTest.class
+org\baeldung\test\TokenRevocationLiveTest.class
+org\baeldung\test\OAuthMvcTest.class
